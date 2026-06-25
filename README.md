@@ -14,9 +14,7 @@ Developed an interactive Power BI dashboard to analyze mobile sales performance 
 - Regional Sales Insights
 - Interactive Filters and Slicers
 - KPI Monitoring
-
-## Dashboard Preview
-(Add screenshot here)
+  
 
 ## Author
 Shreya Gupta
