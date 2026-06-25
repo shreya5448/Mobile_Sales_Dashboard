@@ -1,2 +1,22 @@
-# Mobile_Sales_Dashboard
-Mobile Sales Dashboard (Power BI)  Developed an interactive Mobile Sales Dashboard in Power BI to analyze sales performance, customer behavior, and product trends. The dashboard provides actionable insights through dynamic visualizations and KPI tracking.
+# Mobile Sales Dashboard
+
+## Project Overview
+Developed an interactive Power BI dashboard to analyze mobile sales performance across different brands, regions, and time periods.
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+
+## Key Features
+- Sales Performance Analysis
+- Revenue Tracking
+- Regional Sales Insights
+- Interactive Filters and Slicers
+- KPI Monitoring
+
+## Dashboard Preview
+(Add screenshot here)
+
+## Author
+Shreya Gupta
